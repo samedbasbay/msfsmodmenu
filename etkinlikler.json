@@ -1,32 +1,18 @@
 {
   "events": [
     {
-      "id": "evt-2025-10-12-IST-AYT",
+      "id": "evt-2025-16-09-AYT-SAW",
       "title": "Skywalk Antalya Shuttle",
-      "start": "2025-10-12T17:00:00Z",
-      "end": "2025-10-12T21:00:00Z",
-      "dep": { "icao": "LTFM", "name": "İstanbul" },
-      "arr": { "icao": "LTAI", "name": "Antalya" },
+      "start": "2025-16-09T17:00:00Z",
+      "end": "2025-16-09T21:00:00Z",
+      "dep": { "icao": "LTAI", "name": "Antalya" },
+      "arr": { "icao": "LTFJ", "name": "Sabiha Gökçen" },
       "server": "IVAO",
-      "route": "LTFM SID ... STAR LTAI",
-      "banner": "https://your.cdn/evt1-banner.jpg",
-      "briefing_url": "https://your.site/briefing-evt1",
+      "route": "EKSEN1F EKSEN L610 OSGED L620 ETAMP ETAMP1G",
+      "banner": "https://prnt.sc/ZaWYm_vsxegG",
+      "briefing_url": "https://dispatch.simbrief.com/briefing/146981325",
       "signup_url": "https://your.site/signup-evt1",
       "description": "Topluluk uçuşu. Briefing sayfasındaki slot saatlerine uyunuz."
-    },
-    {
-      "id": "evt-2025-11-02-AYT-ESB",
-      "title": "Ankara Hop",
-      "start": "2025-11-02T18:30:00Z",
-      "end": "2025-11-02T21:00:00Z",
-      "dep": { "icao": "LTAI", "name": "Antalya" },
-      "arr": { "icao": "LTAC", "name": "Ankara" },
-      "server": "VATSIM",
-      "route": "AYT SID ... STAR ESB",
-      "banner": "https://your.cdn/evt2-banner.jpg",
-      "briefing_url": "https://your.site/briefing-evt2",
-      "signup_url": "https://your.site/signup-evt2",
-      "description": "Kontrollü alan bekleniyor; NOTAM ve hava durumu brief’i kontrol edin."
     }
   ]
 }
