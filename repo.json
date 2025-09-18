@@ -4,21 +4,21 @@
       "id": "unique-id-1",
       "title": "LTFM Istanbul Scenery",
       "version": "1.2.0",
-      "url": "https://store.flightsim.to/product/istanbul-airport-ltfm",
+      "url": "https://github.com/<kullanici>/<repo>/releases/download/ltfm-1.2.0/ltfm-istanbul-1.2.0.zip",
       "image": "https://cdn.flightsim.to/images/25/istanbul-airport-ltfm-583706-1681667242-YnNG8.jpg",
       "category": "Havaalanı",
-      "description": "Custom jetways, fotogrametri uyumu, gece aydınlatması.",
-      "install_subdir": "ltfm-istanbul"
+      "description": "Custom jetways, fotogrametri uyumu, gece aydınlatması."
+      // install_subdir yok → otomatik algılansın
     },
     {
       "id": "unique-id-2",
-      "title": "Boeing 787-10 Asobo Studio Skywalk Virtual Airlines TC-DRK ' Samsun' 8K Texture",
+      "title": "Boeing 787-10 Skywalk VA TC-DRK 8K",
       "version": "1.0.0",
-      "url": "https://cdn.discordapp.com/attachments/1360920528897966171/1418185502129131692/B787_Skywalk_VA_TC-DRK_Y0MLN.zip?ex=68cd33ac&is=68cbe22c&hm=bcdc2cd8a6c5e8cda7651007e996d9861cab8f140be08d7903f64048734a8f9e&",
+      "url": "https://github.com/<kullanici>/<repo>/releases/download/b787-tcdrk-1.0/B787_Skywalk_VA_TC-DRK.zip",
       "image": "https://cdn.flightsim.to/images/27/boeing-787-10-asobo-studio-skywalk-virtual-airlines-tc-drk--samsun-8k-texture-1073196-1757515998-ya4Gk.jpg",
-      "category": "Havaalanı",
-      "description": "Custom jetways, fotogrametri uyumu, gece aydınlatması.",
-      "install_subdir": "ltfm-istanbul"
+      "category": "Boya",
+      "description": "Skywalk VA için 8K B787-10 boyası."
+      // install_subdir yok → otomatik algılansın
     }
   ]
 }
