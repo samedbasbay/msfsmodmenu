@@ -8,7 +8,6 @@
       "image": "https://cdn.flightsim.to/images/25/istanbul-airport-ltfm-583706-1681667242-YnNG8.jpg",
       "category": "Havaalanı",
       "description": "Custom jetways, fotogrametri uyumu, gece aydınlatması."
-      // install_subdir yok → otomatik algılansın
     },
     {
       "id": "unique-id-2",
@@ -18,7 +17,6 @@
       "image": "https://cdn.flightsim.to/images/27/boeing-787-10-asobo-studio-skywalk-virtual-airlines-tc-drk--samsun-8k-texture-1073196-1757515998-ya4Gk.jpg",
       "category": "Boya",
       "description": "Skywalk VA için 8K B787-10 boyası."
-      // install_subdir yok → otomatik algılansın
     }
   ]
 }
