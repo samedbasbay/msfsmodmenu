@@ -1,15 +1,6 @@
 {
   "mods": [
     {
-      "id": "unique-id-1",
-      "title": "LTFM Istanbul Scenery",
-      "version": "1.2.0",
-      "url": "https://store.flightsim.to/product/istanbul-airport-ltfm",
-      "image": "https://cdn.flightsim.to/images/25/istanbul-airport-ltfm-583706-1681667242-YnNG8.jpg",
-      "category": "Havaalanı",
-      "description": "Custom jetways, fotogrametri uyumu, gece aydınlatması."
-    }
-    {
       "id": "unique-id-2",
       "title": "Boeing 787-10 Skywalk VA TC-DRK 8K",
       "version": "1.0.0",
