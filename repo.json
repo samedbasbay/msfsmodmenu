@@ -1,0 +1,14 @@
+{
+  "mods": [
+    {
+      "id": "unique-id-1",
+      "title": "LTFM Istanbul Scenery",
+      "version": "1.2.0",
+      "url": "https://senin-site.com/ltfm_istanbul.zip",
+      "image": "https://senin-site.com/ltfm_cover.jpg",
+      "category": "Havaalanı",
+      "description": "Custom jetways, fotogrametri uyumu, gece aydınlatması.",
+      "install_subdir": "ltfm-istanbul"
+    }
+  ]
+}
